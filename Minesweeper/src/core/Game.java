@@ -18,4 +18,18 @@ public class Game {
         return GAME_ACTIVE;
     }
 
+    public int [][] getBoard() {
+        //TODO
+        return new int [3][6];
+    }
+
+    public int getBoardWidth() {
+        //TODO
+        return 0;
+    }
+
+    public int getBoardHeight() {
+        //TODO
+        return 0;
+    }
 }
